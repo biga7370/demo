@@ -1,14 +1,36 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[ {
+  "Address" : "Hutech - Sảnh A",
+  "AutoCompleteString" : "giấy tờ hoãn nghĩa vụ quân sự, vay vốn ngân hàng, giấy xác nhận đang là sinh viên của trường, đăng ký tham gia các câu lạc bộ, giải quyết các vấn đề về chính sách học bổng",
+  "Email" : "CongTacSinhVien@gmail.com",
+  "Name" : "Phòng Công Tác Sinh Viên",
+  "SDT" : "(028) 3 512 0785",
+  "id" : 1
+}, {
+  "Address" : "Hutech - Sảnh B",
+  "AutoCompleteString" : "hướng dẫn xem phòng học, xem thời khóa biểu, lịch thi, hướng dẫn đăng ký môn học, hoàn tất học phí đúng hạn, hướng dẫn và cung cấp hệ thống đơn từ, hỗ trợ làm lại thẻ sinh viên",
+  "Email" : "VanPhongHoTroHocVu@gmail.com",
+  "Name" : "Văn Phòng Hỗ Trợ Học Vụ",
+  "SDT" : "(028) 5445 2222",
+  "id" : 2
+}, {
+  "Address" : "Hutech - Sảnh A",
+  "AutoCompleteString" : "Giải quyết chuyển ngành, chuyển lớp, in bảng điểm, nộp các đơn như đăng ký môn học, rút môn học, hủy môn học, nhận điểm I, xóa điểm I, chuyển ca thi",
+  "Email" : "PhongDaoTaoKhaoThi@gmail.com",
+  "Name" : "Phòng Đạo tào – Khảo thí",
+  "SDT" : "(028) 3 5120 782",
+  "id" : 3
+}, {
+  "Address" : "Hutech - Sảnh A",
+  "AutoCompleteString" : "gia hạn đóng học phí, học phí",
+  "Email" : "PhongTaiChinh@gmail.com",
+  "Name" : "Phòng Tài chính",
+  "SDT" : "(028) 3 512 0789",
+  "id" : 4
+}, {
+  "Address" : "Hutech - Sân trường",
+  "AutoCompleteString" : "chứng chỉ Tin học, Ngoại ngữ, Kỹ năng mềm",
+  "Email" : "VienDaoTaoNgheNghiep@gmail.com",
+  "Name" : "Viện Đào tạo nghề nghiệp",
+  "SDT" : "(028) 3 512 4485",
+  "id" : 5
+} ]
